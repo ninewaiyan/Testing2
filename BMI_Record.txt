@@ -1,0 +1,5 @@
+nine
+height = 4.00 
+weight = 4.00 
+BMI = 0.25
+ # Weight status = Underweight
